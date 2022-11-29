@@ -1588,6 +1588,7 @@ input, select, textarea {
 					box-shadow: inset 0px 1px 5px 1px rgba(0, 0, 0, 0.05), 0px 0px 5px 1px rgba(255, 255, 255, 0.05);
 				}
 
+
 /* Banner */
 
 	#banner-wrapper {
@@ -1719,7 +1720,7 @@ input, select, textarea {
 
 nav.menu2{
   height: 40px;
-  line-height: 40px;
+  line-height: 20px;
   width: 100%;
   text-align: left;
   position: fixed;
