@@ -1720,7 +1720,7 @@ input, select, textarea {
 
 nav.menu2{
   height: 40px;
-  line-height: 100px;
+  line-height: 200%;
   width: 20%;
   text-align: left;
   position: fixed;
