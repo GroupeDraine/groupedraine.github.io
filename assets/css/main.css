@@ -1719,8 +1719,8 @@ input, select, textarea {
 /* Small */
 
 nav.menu2{
-  height: 80px;
-  line-height: 150%;
+  height: 40px;
+  line-height: 100px;
   width: 20%;
   text-align: left;
   position: fixed;
